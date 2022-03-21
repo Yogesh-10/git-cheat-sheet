@@ -1,6 +1,6 @@
-### git-cheat-sheet
+# git-cheat-sheet
 
-# Reference for git commands.
+## Reference for git commands.
 
 ### Creating Snapshots
 
