@@ -1,5 +1,13 @@
 # Git Cheat Sheet
 
+#### ***1 - [what is git](https://github.com/Yogesh-10/git-cheat-sheet/tree/main/01-what-is-git)***
+#### ***2 - [git snapshots](https://github.com/Yogesh-10/git-cheat-sheet/tree/main/02-git-snapshots)***
+#### ***3 - [Browsing History](https://github.com/Yogesh-10/git-cheat-sheet/tree/main/03-Browsing-History)***
+#### ***4 - [Branching and merging](https://github.com/Yogesh-10/git-cheat-sheet/tree/main/04-Branching-and-merging)***
+#### ***5 - [collaboration](https://github.com/Yogesh-10/git-cheat-sheet/tree/main/05-collaboration)***
+#### ***6 - [rewriting-history](https://github.com/Yogesh-10/git-cheat-sheet/tree/main/06-rewriting-history)***
+
+
 ## Reference for git commands.
 
 ### 1. Creating Snapshots
@@ -393,3 +401,5 @@ Interactive rebasing
 ```bash
 git rebase -i HEAD~5
 ```
+
+
