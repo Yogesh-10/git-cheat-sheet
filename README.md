@@ -1,8 +1,8 @@
-# git-cheat-sheet
+# Git Cheat Sheet
 
 ## Reference for git commands.
 
-### Creating Snapshots
+### 1. Creating Snapshots
 
 Initializing a repository
 
@@ -112,7 +112,7 @@ Restoring an earlier version of a file
 git restore --source=HEAD~2 file.js
 ```
 
-### **Browsing History**
+### 2.**Browsing History**
 
 Viewing the history
 
@@ -224,7 +224,7 @@ git tag # Lists all the tags
 git tag -d v1.0 # Deletes the given tag
 ```
 
-### **Branching & Merging**
+### 3.**Branching & Merging**
 
 Managing branches
 
@@ -298,7 +298,7 @@ Cherry picking
 git cherry-pick dad47ed # Applies the given commit on the current branch
 ```
 
-### Collaboration
+### 4.Collaboration
 
 Cloning a repository
 
@@ -352,7 +352,7 @@ git remote add upstream url # Adds a new remote called upstream
 git remote rm upstream # Remotes upstream
 ```
 
-### **Rewriting History**
+### 5.**Rewriting History**
 
 Undoing commits
 
